@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joelmugabe.github.io/AFRICA-DRONE-SOLUTION/sitemap.xml
